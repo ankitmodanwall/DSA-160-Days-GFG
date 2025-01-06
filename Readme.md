@@ -1,4 +1,4 @@
-# 160 Days of DSA with GeeksforGeeks
+# 160 Days of DSA with GeeksforGeeks✅
 ![alt text](image.png)
 
 Welcome to the 160 Days of Data Structures and Algorithms (DSA) challenge with GeeksforGeeks! This repository is dedicated to tracking my progress and solutions to various DSA problems over the course of 160 days.
@@ -7,7 +7,7 @@ Welcome to the 160 Days of Data Structures and Algorithms (DSA) challenge with G
 
 The goal of this challenge is to improve problem-solving skills and gain a deeper understanding of data structures and algorithms by solving a variety of problems provided by GeeksforGeeks.
 
-## Structure
+## Structure👇🏻
 
 The repository is organized as follows:
 
